@@ -1,4 +1,5 @@
 const backendDomin = "https://b1-6g9u.onrender.com"
+// const backendDomin = "https://b1-6g9u.onrender.com"
 
 const SummaryApi = {
     signUP : {
